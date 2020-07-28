@@ -1,0 +1,30 @@
+user {
+    name
+    lastName
+    email
+    password
+    role
+    image
+}
+
+song {
+    number
+    name
+    last
+    archive
+    _id_album
+}
+
+album {
+    tittle
+    description
+    year
+    image
+    _id_artist
+}
+
+artist {
+    name
+    description
+    image
+}
